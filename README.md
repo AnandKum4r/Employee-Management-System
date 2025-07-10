@@ -58,6 +58,6 @@ The application uses **localStorage** for managing login and employee/task data.
 - 💨 Tailwind CSS (for modern UI)
 - 🌐 LocalStorage (for storing users and tasks)
 - 🔁 React Router DOM (for page routing)
-
+- 🧠 React Hooks (useState, useEffect)
 ---
 
