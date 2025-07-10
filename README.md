@@ -34,7 +34,7 @@ The application uses **localStorage** for managing login and employee/task data.
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
+   git clone https://github.com/AnandKum4r/Employee-Management-System.git
    cd employee-management-system
    ```
 
