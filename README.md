@@ -30,17 +30,6 @@ The application uses **localStorage** for managing login and employee/task data.
 
 ---
 
-## 📸 Screenshots
-
-### 🔐 Login Page
-![Login] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ffd4c10e-6ed4-44b1-ad28-08cf5a95b992" />
-
-### 🧑‍💼 Admin Dashboard
-![Admin Dashboard] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b453e5b-4e7f-4a7c-820c-2988064b57db" />
-
-### 👩‍💻 Employee Dashboard
-![Employee Dashboard] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8ef7181-d0cc-486d-9d4b-421b48dc9772" />
-
 ## 📥 Installation
 
 1. **Clone the repo**
@@ -67,7 +56,6 @@ The application uses **localStorage** for managing login and employee/task data.
 - ⚛️ React (Functional Components, Hooks)
 - ⚡ Vite (for fast development)
 - 💨 Tailwind CSS (for modern UI)
-- 🔒 SweetAlert2 (for alerts and confirmation dialogs)
 - 🌐 LocalStorage (for storing users and tasks)
 - 🔁 React Router DOM (for page routing)
 
