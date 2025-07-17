@@ -12,6 +12,12 @@ The **Employee Management System** is a modern web-based application built using
 The application uses **localStorage** for managing login and employee/task data.
 
 ---
+##  Login Email & Passwaord
+- 👨‍💼 **Admin** Email : admin@example.com , Password: 123
+- 👩‍💻 **Employees**
+- Email : employee1@example.com, employee2@example.com , employee3@example.com , employee4@example.com , employee5@example.com , Password : 123
+
+---
 
 ## ✨ Features
 
@@ -28,6 +34,16 @@ The application uses **localStorage** for managing login and employee/task data.
 - Update task status (Accepted, Completed, Failed)
 - Track total tasks per status (New, Completed, etc.)
 
+---
+
+## 🚀 Technologies Used
+
+- ⚛️ React (Functional Components, Hooks)
+- ⚡ Vite (for fast development)
+- 💨 Tailwind CSS (for modern UI)
+- 🌐 LocalStorage (for storing users and tasks)
+- 🔁 React Router DOM (for page routing)
+- 🧠 React Hooks (useState, useEffect)
 ---
 
 ## 📥 Installation
@@ -51,13 +67,4 @@ The application uses **localStorage** for managing login and employee/task data.
 2. Open in browser:
     [http://localhost:3000](http://localhost:3000)
 
-## 🚀 Technologies Used
-
-- ⚛️ React (Functional Components, Hooks)
-- ⚡ Vite (for fast development)
-- 💨 Tailwind CSS (for modern UI)
-- 🌐 LocalStorage (for storing users and tasks)
-- 🔁 React Router DOM (for page routing)
-- 🧠 React Hooks (useState, useEffect)
 ---
-
